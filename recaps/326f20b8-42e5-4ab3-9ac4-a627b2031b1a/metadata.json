@@ -1,0 +1,26 @@
+{
+  "recapId": "326f20b8-42e5-4ab3-9ac4-a627b2031b1a",
+  "recapRevision": 1,
+  "title": "暑假新疆旅行穿搭建议",
+  "sourceUrl": null,
+  "tags": [],
+  "metadata": {
+    "language": null,
+    "selected_option": "Image",
+    "file_name": "新疆穿什么.png",
+    "mime_type": "image/png",
+    "blob_name": "326f20b8-42e5-4ab3-9ac4-a627b2031b1a.png",
+    "title": "暑假新疆旅行穿搭建议",
+    "summary": "根据8天新疆旅行的实测经验，博主分享了针对不同场景的穿搭指南，强调了防晒与应对温差的重要性。",
+    "learning_generation_status": "ready",
+    "learning_generation_error": null,
+    "learning_requested_perspective_ids": [],
+    "learning_generation_version": "adaptive_pbl_mindmap_v2",
+    "learning_generation_count": 9,
+    "learning_perspective_ids": [
+      "creator",
+      "designer",
+      "manager"
+    ]
+  }
+}
