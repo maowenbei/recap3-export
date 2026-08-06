@@ -21,6 +21,3 @@ Not provided
 
 ## Tags
 
-
-
-Original binary file was not uploaded to GitHub in this export.
